@@ -1,0 +1,36 @@
+# --- Données personnelles : ne JAMAIS publier ---
+session_tiktok.json
+comptes_deja_traites.txt
+comptes_a_bloquer.txt
+captures_erreurs/
+*.cookies
+*.log
+
+# --- Python ---
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# --- Extension navigateur / Node ---
+node_modules/
+dist/
+build/
+*.zip
+*.crx
+*.pem
+.env
+.env.*
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+._*
+
+# --- Éditeurs ---
+.vscode/
+.idea/
+*.swp
